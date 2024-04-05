@@ -2,6 +2,7 @@ require "nokogiri"
 require "httparty"
 require "csv"
 require "open-uri"
+# built with the help of https://brightdata.com/blog/how-tos/web-scraping-with-ruby
 
 # target page
 response = HTTParty.get("https://www.lavillarose.fr/nos-voitures/", {
