@@ -1,1 +1,26 @@
-url,image,name
+date,url,image,name,year,price,km
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-991-2-carrera-4s-cabriolet/,https://www.lavillarose.fr/wp-content/uploads/2024/03/91S_PDK_CAB_B_01_1-768x496.jpg,Porsche 991.2 Carrera 4S Cabriolet,2017,118700 €,57800 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-991-1-targa-4s/,https://www.lavillarose.fr/wp-content/uploads/2024/02/91T4S_NV_01-768x452.jpg,Porsche 991.1 Targa 4S,2016,134700 €,54300 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-981-cayman-2/,https://www.lavillarose.fr/wp-content/uploads/2024/02/Cay2l7_GA_01-1-768x488.jpg,Porsche 981 Cayman,2015,Vendu,72600 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-991-1-targa-4/,https://www.lavillarose.fr/wp-content/uploads/2023/10/57-768x509.jpg,Porsche 991.1 Targa 4,2014,119700 €,44500 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-981-cayman-3/,https://www.lavillarose.fr/wp-content/uploads/2024/03/DSC00691-768x515.jpg,Porsche 981 Cayman,2014,50600 €,69700 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-981-boxster-s-4/,https://www.lavillarose.fr/wp-content/uploads/2024/01/DSC_3487-768x509.jpg,Porsche 981 Boxster S,2013,Réservée,83000 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-981-boxster-s-5/,https://www.lavillarose.fr/wp-content/uploads/2024/01/BoxS_NV_01-1-768x495.jpg,Porsche 981 Boxster S,2013,62800 €,47500 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-997-2-carrera-gts/,https://www.lavillarose.fr/wp-content/uploads/2024/01/97GTS_BC_01-768x531.jpg,Porsche 997.2 Carrera GTS,2012,Réservée,93400 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-991-1-carrera-s-2/,https://www.lavillarose.fr/wp-content/uploads/2024/02/991S_GQ_01-768x471.jpg,Porsche 991.1 Carrera S,2012,Vendu,68000 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-997-2-turbo-s/,https://www.lavillarose.fr/wp-content/uploads/2024/01/DSC00237-768x457.jpg,Porsche 997.2 Turbo S,2011,115800 €,63800 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-987-2-boxster-s-3/,https://www.lavillarose.fr/wp-content/uploads/2024/02/Boxs_NV_01-768x504.jpg,Porsche 987.2 Boxster S,2011,Réservée,93500 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/997-2-carrera-s/,https://www.lavillarose.fr/wp-content/uploads/2023/01/97SPDK_N_01-768x509.jpg,Porsche 997.2 Carrera S,2009,65800 €,115500 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-987-2-boxster-2/,https://www.lavillarose.fr/wp-content/uploads/2023/09/Box2l9_RI_01-768x488.jpg,Porsche 987.2 Boxster,2009,40200 €,47500 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-997-2-carrera-4s-cabriolet-4/,https://www.lavillarose.fr/wp-content/uploads/2024/03/97-4S_BC_01-768x516.jpg,Porsche 997.2 Carrera 4S Cabriolet,2009,73300 €,120000 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-987-2-boxster-3/,https://www.lavillarose.fr/wp-content/uploads/2024/03/Box987_2l9_01-768x449.jpg,Porsche 987.2 Boxster,2009,40900 €,51000 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-987-1-cayman/,https://www.lavillarose.fr/wp-content/uploads/2024/03/Cay_2l7_GM_01-768x534.jpg,Porsche 987.1 Cayman,2007,29800 €,84000 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-996-2-turbo-cabriolet-x50/,https://www.lavillarose.fr/wp-content/uploads/2023/11/96TT_CAB_X50_NV_V2_01-768x498.jpg,Porsche 996.2 Turbo Cabriolet X50,2004,86300 €,77800 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-996-2-carrera-4s/,https://www.lavillarose.fr/wp-content/uploads/2023/08/964S_NV_TP_01-768x512.jpg,Porsche 996.2 Carrera 4S,2002,Réservée,108000 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-996-1-carrera-2/,https://www.lavillarose.fr/wp-content/uploads/2024/02/DSC00610-768x463.jpg,Porsche 996.1 Carrera,2001,Vendu,105700 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-986-1-boxster-s/,https://www.lavillarose.fr/wp-content/uploads/2024/02/DSC00651-768x521.jpg,Porsche 986.1 Boxster S,2000,Vendu,110500 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-996-1-carrera-3/,https://www.lavillarose.fr/wp-content/uploads/2024/03/96C2_VM_01-1-768x487.jpg,Porsche 996.1 Carrera,2000,35800 €,96000 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-986-1-boxster-2/,https://www.lavillarose.fr/wp-content/uploads/2023/07/Box2l7_GA_01-768x522.jpg,Porsche 986.1 Boxster,1999,20800 €,119500 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-986-1-boxster-3/,https://www.lavillarose.fr/wp-content/uploads/2024/03/Box2l5_GA_01-768x485.jpg,Porsche 986.1 Boxster,1997,21200 €,131500 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/964-turbo-3-3l/,https://www.lavillarose.fr/wp-content/uploads/2023/02/64T_BM_01-1-768x509.jpg,Porsche 964 Turbo 3.3L,1991,Réservée,143000 kms
+2024-04-05 17:26:19 +0200,https://www.lavillarose.fr/nos-voitures/porsche-964-carrera-4/,https://www.lavillarose.fr/wp-content/uploads/2024/03/DSC00732-768x495.jpg,Porsche 964 Carrera 4,1991,81600 €,196000 kms
